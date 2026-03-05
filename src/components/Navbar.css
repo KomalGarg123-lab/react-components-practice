@@ -1,0 +1,36 @@
+.navbar{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 70px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 80px;
+
+  background: linear-gradient(90deg,#4f46e5,#9333ea);
+  color: white;
+  font-size: 18px;
+}
+
+.logo{
+  font-size: 26px;
+  font-weight: bold;
+}
+
+.nav-links{
+  display: flex;
+  list-style: none;
+  gap: 40px;
+}
+
+.nav-links li{
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.nav-links li:hover{
+  color: yellow;
+}

@@ -1,0 +1,9 @@
+we use react by using vite .=> npm create vite@latest.
+Before Create React App, developers had to manually set up React using tools like Webpack and Babel, which required a lot of configuration.
+
+Today many developers prefer Vite because it starts faster and provides quicker hot-reload, making React development simpler and faster.
+react is library(give one specific functionality) but next.js is framework(give everything require to app)
+jsx=html+js
+when {} means js started.
+we can put strings in inline css we put js in {} in inline css.
+{{}} means js object.
